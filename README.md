@@ -3,3 +3,5 @@
 
 #github
  https://github.com/chinaynlmq-a/lmqhttp.git
+
+ #补充相关依赖包
