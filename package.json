@@ -1,0 +1,24 @@
+{
+  "name": "lmqhttp",
+  "version": "1.0.0",
+  "description": "对axios二次封装",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "read",
+    "write"
+  ],
+  "files": [
+    "dist",
+    "lib",
+    "example"
+  ],
+  "author": "木子聊前端",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
