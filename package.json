@@ -1,6 +1,6 @@
 {
   "name": "lmqhttp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "对axios二次封装",
   "main": "lib/getHttp.js",
   "scripts": {
